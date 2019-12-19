@@ -1,4 +1,4 @@
 # hello-world
-how to use hithub
+ use github
 
 the first example hello world
